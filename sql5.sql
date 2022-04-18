@@ -1,0 +1,4 @@
+SELECT NAME,max(GOALS)
+AS max
+FROM PLAYERS
+WHERE POST='goalkeeper'

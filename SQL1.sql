@@ -1,0 +1,22 @@
+INSERT INTO players (name,country,post,goals) 
+VALUES
+('bazikon1','amrika','goalkeeper',0),
+('bazikon2','iran','forward',20),
+('bazikon3','englis','halfback',14),
+('bazikon4','faranse','defender',5),
+('bazikon5','sorie','halfback',8),
+('bazikon6','felestin','forward',8),
+('bazikon7','amrika','halfback',9),
+('bazikon8','amrika','defender',9),
+('bazikon9','englis','halfback',5),
+('bazikon10','englis','defender',2),
+('bazikon11','englis','defender',1),
+('bazikon12','faranse','forward',19),
+('bazikon13','faranse','defender',18),
+('bazikon14','iran','defender',17),
+('bazikon15','englis','forward',25) ,
+('bazikon16','alman','halfback',8),
+('bazikon17','alman','defender',5),
+('bazikon18','iran','halfback',16),
+('bazikon19','alman','forward',12),
+('bazikon20','alman','halfback',20)
